@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @CroopzyYT
-- 👀 I’m interested in coding, guitar, games and martial arts.
-- 🌱 I’m currently learning Python, how to play guitar.
-- 💞️ I’m not currently looking to collaborate.
+- 👀 I’m interested in coding, gaming and boxing, kickboxing + other martial arts.
+- 🌱 I’m currently learning a few different coding languages but I took a bit of a break from it.
 - 📫 How to reach me: Discord - Croopzy#8877
-
-<!---
-CroopzyYT/CroopzyYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
