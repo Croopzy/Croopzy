@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @CroopzyYT
-- 👀 I’m interested in coding, gaming and boxing, kickboxing
-- 🌱 I’m currently learning a few different coding languages but I took a bit of a break from it.
-- 📫 How to reach me: Discord - Croopzy#8877
+- 📫 Discord: Croopzy#8877
