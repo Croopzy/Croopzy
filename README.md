@@ -1,1 +1,1 @@
-- 📫 Discord: Croopzy#8877
+- 📫 Discord: Croopzy
